@@ -27,39 +27,51 @@
     font-size: 18px;
     text-align: center;
 }
+p{
+    font-size: 18px;
+    text-align: justify;
+}
 .imageMe{
     display: block;
     margin: auto;
     border-radius: 0.5%;
+    width: 60%;
+    height: 60%;
 }
 .imageMiddleSchool{
     display: block;
     margin: auto;
     border-radius: 0.5%;
+    width: 100%;
+    height: 100%;
 }
 .imageHighSchool{
     display: block;
     margin: auto;
     border-radius: 0.5%;
-    width: 800px;
+    width: 100%;
+    height: 100%;
 }
 .imageCollege{
     display: block;
     margin: auto;
     border-radius: 0.5%;
-    width: 800px;
+    width: 100%;
+    height: 100%;
 }
 .imageTeleperformance{
     display: block;
     margin: auto;
     border-radius: 0.5%;
+    width: 100%;
+    height: 100%;
 }
 .imagePlasma{
     display: block;
     margin: auto;
     border-radius: 0.5%;
-    width: 200%;
-    height: 200%;
+    width: 100%;
+    height: 100%;
 }
 #navbar{
     width: 100%;
